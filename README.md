@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gitSirzh
-- 👀 A student with poor grades
+- 🕸️ Enthusiasts of neural networks.
 
 <!---
 gitSirzh/gitSirzh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
